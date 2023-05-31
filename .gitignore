@@ -1,2 +1,3 @@
 # agregando git ignore
 *.exe
+*.o
