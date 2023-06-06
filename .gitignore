@@ -1,3 +1,4 @@
 # agregando git ignore
 *.exe
 *.o
+.vscode/
