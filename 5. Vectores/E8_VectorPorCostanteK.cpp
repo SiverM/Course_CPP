@@ -18,7 +18,7 @@ int main(){
     for(int i=0;i<n;i++){
     cout<<"       "<<vector[i]<<"                 "<<vector1[i]<<endl;
     }
-    cout<<"\nPresione una tecla para continuar..."<<endl;
+    cout<<"\nPor favor presione una tecla para continuar..."<<endl;
     getch();
     return 0;
 }
